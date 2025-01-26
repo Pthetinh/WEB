@@ -17,9 +17,12 @@ body {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    background: #e2dcdc;
 }
 
 a{
     text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
 }
